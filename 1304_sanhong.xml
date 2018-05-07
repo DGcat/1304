@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5">
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="3.5" fov="100" tilt="-2.5"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="阳台" target="" pan="56.6808" skinid="" url="{node8}" id="Point01" tilt="-13.168"/>
+      <hotspot title="餐厅" target="" pan="-89.4041" skinid="" url="{node1}" id="Point02" tilt="-6.36274"/>
+      <hotspot title="过道" target="" pan="-54.1667" skinid="" url="{node4}" id="Point03" tilt="-13.2094"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/keting_o_0.jpg" prev5url="images/keting_o_preview_5.jpg" prev4url="images/keting_o_preview_4.jpg" prev3url="images/keting_o_preview_3.jpg" prev2url="images/keting_o_preview_2.jpg" prev1url="images/keting_o_preview_1.jpg" prev0url="images/keting_o_preview_0.jpg" tile5url="images/keting_o_5.jpg" tilesize="1542" tile4url="images/keting_o_4.jpg" tile3url="images/keting_o_3.jpg" tilescale="1.006485084306096" tile2url="images/keting_o_2.jpg" tile1url="images/keting_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/keting_o_800_0.jpg" screensize="1000" tile5url="images/keting_o_800_5.jpg" tilesize="800" tile4url="images/keting_o_800_4.jpg" tile3url="images/keting_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/keting_o_800_2.jpg" tile1url="images/keting_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="厨房" target="" pan="-84.14870000000001" skinid="" url="{node2}" id="Point01" tilt="-18.6052"/>
+      <hotspot title="过道" target="" pan="30.6201" skinid="" url="{node4}" id="Point02" tilt="-13.2439"/>
+      <hotspot title="客厅" target="" pan="94.0445" skinid="" url="{node5}" id="Point03" tilt="-25.2303"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/canting_o_0.jpg" prev5url="images/canting_o_preview_5.jpg" prev4url="images/canting_o_preview_4.jpg" prev3url="images/canting_o_preview_3.jpg" prev2url="images/canting_o_preview_2.jpg" prev1url="images/canting_o_preview_1.jpg" prev0url="images/canting_o_preview_0.jpg" tile5url="images/canting_o_5.jpg" tilesize="1542" tile4url="images/canting_o_4.jpg" tile3url="images/canting_o_3.jpg" tilescale="1.006485084306096" tile2url="images/canting_o_2.jpg" tile1url="images/canting_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/canting_o_800_0.jpg" screensize="1000" tile5url="images/canting_o_800_5.jpg" tilesize="800" tile4url="images/canting_o_800_4.jpg" tile3url="images/canting_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/canting_o_800_2.jpg" tile1url="images/canting_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="餐厅" target="" pan="-155.015" skinid="" url="{node1}" id="Point01" tilt="-37.2111"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/chufang_o_0.jpg" prev5url="images/chufang_o_preview_5.jpg" prev4url="images/chufang_o_preview_4.jpg" prev3url="images/chufang_o_preview_3.jpg" prev2url="images/chufang_o_preview_2.jpg" prev1url="images/chufang_o_preview_1.jpg" prev0url="images/chufang_o_preview_0.jpg" tile5url="images/chufang_o_5.jpg" tilesize="1542" tile4url="images/chufang_o_4.jpg" tile3url="images/chufang_o_3.jpg" tilescale="1.006485084306096" tile2url="images/chufang_o_2.jpg" tile1url="images/chufang_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/chufang_o_800_0.jpg" screensize="1000" tile5url="images/chufang_o_800_5.jpg" tilesize="800" tile4url="images/chufang_o_800_4.jpg" tile3url="images/chufang_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/chufang_o_800_2.jpg" tile1url="images/chufang_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="过道" target="" pan="-106.295" skinid="" url="{node4}" id="Point01" tilt="-23.1396"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/ciwo_o_0.jpg" prev5url="images/ciwo_o_preview_5.jpg" prev4url="images/ciwo_o_preview_4.jpg" prev3url="images/ciwo_o_preview_3.jpg" prev2url="images/ciwo_o_preview_2.jpg" prev1url="images/ciwo_o_preview_1.jpg" prev0url="images/ciwo_o_preview_0.jpg" tile5url="images/ciwo_o_5.jpg" tilesize="1542" tile4url="images/ciwo_o_4.jpg" tile3url="images/ciwo_o_3.jpg" tilescale="1.006485084306096" tile2url="images/ciwo_o_2.jpg" tile1url="images/ciwo_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/ciwo_o_800_0.jpg" screensize="1000" tile5url="images/ciwo_o_800_5.jpg" tilesize="800" tile4url="images/ciwo_o_800_4.jpg" tile3url="images/ciwo_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/ciwo_o_800_2.jpg" tile1url="images/ciwo_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="餐厅" target="" pan="-152.713" skinid="" url="{node1}" id="Point01" tilt="-15.9764"/>
+      <hotspot title="客厅" target="" pan="108.049" skinid="" url="{node5}" id="Point02" tilt="-35.0423"/>
+      <hotspot title="次卧" target="" pan="18.2063" skinid="" url="{node3}" id="Point03" tilt="-31.8415"/>
+      <hotspot title="主卧" target="" pan="-10.6282" skinid="" url="{node10}" id="Point04" tilt="-12.3498"/>
+      <hotspot title="多功能房" target="" pan="-23.7428" skinid="" url="{node6}" id="Point05" tilt="-16.7778"/>
+      <hotspot title="卫生间" target="" pan="-32.222" skinid="" url="{node7}" id="Point06" tilt="-28.1746"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/guodao_o_0.jpg" prev5url="images/guodao_o_preview_5.jpg" prev4url="images/guodao_o_preview_4.jpg" prev3url="images/guodao_o_preview_3.jpg" prev2url="images/guodao_o_preview_2.jpg" prev1url="images/guodao_o_preview_1.jpg" prev0url="images/guodao_o_preview_0.jpg" tile5url="images/guodao_o_5.jpg" tilesize="1542" tile4url="images/guodao_o_4.jpg" tile3url="images/guodao_o_3.jpg" tilescale="1.006485084306096" tile2url="images/guodao_o_2.jpg" tile1url="images/guodao_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/guodao_o_800_0.jpg" screensize="1000" tile5url="images/guodao_o_800_5.jpg" tilesize="800" tile4url="images/guodao_o_800_4.jpg" tile3url="images/guodao_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/guodao_o_800_2.jpg" tile1url="images/guodao_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="过道" target="" pan="162.378" skinid="" url="{node4}" id="Point01" tilt="-25.8284"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/shufang_o_0.jpg" prev5url="images/shufang_o_preview_5.jpg" prev4url="images/shufang_o_preview_4.jpg" prev3url="images/shufang_o_preview_3.jpg" prev2url="images/shufang_o_preview_2.jpg" prev1url="images/shufang_o_preview_1.jpg" prev0url="images/shufang_o_preview_0.jpg" tile5url="images/shufang_o_5.jpg" tilesize="1542" tile4url="images/shufang_o_4.jpg" tile3url="images/shufang_o_3.jpg" tilescale="1.006485084306096" tile2url="images/shufang_o_2.jpg" tile1url="images/shufang_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/shufang_o_800_0.jpg" screensize="1000" tile5url="images/shufang_o_800_5.jpg" tilesize="800" tile4url="images/shufang_o_800_4.jpg" tile3url="images/shufang_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/shufang_o_800_2.jpg" tile1url="images/shufang_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="过道" target="" pan="-51.5691" skinid="" url="{node4}" id="Point01" tilt="-22.0776"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/weisjian_o_0.jpg" prev5url="images/weisjian_o_preview_5.jpg" prev4url="images/weisjian_o_preview_4.jpg" prev3url="images/weisjian_o_preview_3.jpg" prev2url="images/weisjian_o_preview_2.jpg" prev1url="images/weisjian_o_preview_1.jpg" prev0url="images/weisjian_o_preview_0.jpg" tile5url="images/weisjian_o_5.jpg" tilesize="1542" tile4url="images/weisjian_o_4.jpg" tile3url="images/weisjian_o_3.jpg" tilescale="1.006485084306096" tile2url="images/weisjian_o_2.jpg" tile1url="images/weisjian_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/weisjian_o_800_0.jpg" screensize="1000" tile5url="images/weisjian_o_800_5.jpg" tilesize="800" tile4url="images/weisjian_o_800_4.jpg" tile3url="images/weisjian_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/weisjian_o_800_2.jpg" tile1url="images/weisjian_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="客厅" target="" pan="-87.4251" skinid="" url="{node5}" id="Point01" tilt="-29.1807"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/yantai_o_0.jpg" prev5url="images/yantai_o_preview_5.jpg" prev4url="images/yantai_o_preview_4.jpg" prev3url="images/yantai_o_preview_3.jpg" prev2url="images/yantai_o_preview_2.jpg" prev1url="images/yantai_o_preview_1.jpg" prev0url="images/yantai_o_preview_0.jpg" tile5url="images/yantai_o_5.jpg" tilesize="1542" tile4url="images/yantai_o_4.jpg" tile3url="images/yantai_o_3.jpg" tilescale="1.006485084306096" tile2url="images/yantai_o_2.jpg" tile1url="images/yantai_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/yantai_o_800_0.jpg" screensize="1000" tile5url="images/yantai_o_800_5.jpg" tilesize="800" tile4url="images/yantai_o_800_4.jpg" tile3url="images/yantai_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/yantai_o_800_2.jpg" tile1url="images/yantai_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="主卧" target="" pan="-143.863" skinid="" url="{node10}" id="Point01" tilt="-25.7408"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/zhuwei_o_0.jpg" prev5url="images/zhuwei_o_preview_5.jpg" prev4url="images/zhuwei_o_preview_4.jpg" prev3url="images/zhuwei_o_preview_3.jpg" prev2url="images/zhuwei_o_preview_2.jpg" prev1url="images/zhuwei_o_preview_1.jpg" prev0url="images/zhuwei_o_preview_0.jpg" tile5url="images/zhuwei_o_5.jpg" tilesize="1542" tile4url="images/zhuwei_o_4.jpg" tile3url="images/zhuwei_o_3.jpg" tilescale="1.006485084306096" tile2url="images/zhuwei_o_2.jpg" tile1url="images/zhuwei_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/zhuwei_o_800_0.jpg" screensize="1000" tile5url="images/zhuwei_o_800_5.jpg" tilesize="800" tile4url="images/zhuwei_o_800_4.jpg" tile3url="images/zhuwei_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/zhuwei_o_800_2.jpg" tile1url="images/zhuwei_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="三鸿装饰" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="240" height="0" wordwrap="1">
+      <label width="240" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="0" textcolor="0xffffff" background="0" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="主卫" target="" pan="-85.2058" skinid="" url="{node9}" id="Point01" tilt="-15.8679"/>
+      <hotspot title="过道" target="" pan="-111.084" skinid="" url="{node4}" id="Point02" tilt="-14.7963"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="10" field="90" pan="-1" tiltsize="0" id="_background" level="0.3" tilt="-1">
+        <source url="柿島伸次 - 昙りのち晴れ.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/zhuwo_o_0.jpg" prev5url="images/zhuwo_o_preview_5.jpg" prev4url="images/zhuwo_o_preview_4.jpg" prev3url="images/zhuwo_o_preview_3.jpg" prev2url="images/zhuwo_o_preview_2.jpg" prev1url="images/zhuwo_o_preview_1.jpg" prev0url="images/zhuwo_o_preview_0.jpg" tile5url="images/zhuwo_o_5.jpg" tilesize="1542" tile4url="images/zhuwo_o_4.jpg" tile3url="images/zhuwo_o_3.jpg" tilescale="1.006485084306096" tile2url="images/zhuwo_o_2.jpg" tile1url="images/zhuwo_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/zhuwo_o_800_0.jpg" screensize="1000" tile5url="images/zhuwo_o_800_5.jpg" tilesize="800" tile4url="images/zhuwo_o_800_4.jpg" tile3url="images/zhuwo_o_800_3.jpg" tilescale="1.006485084306096" tile2url="images/zhuwo_o_800_2.jpg" tile1url="images/zhuwo_o_800_1.jpg"/>
+    <autorotate speed="0.030" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="3.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="6"/>
+  </panorama>
+</tour>
